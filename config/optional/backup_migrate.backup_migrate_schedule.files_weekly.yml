@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+id: files_weekly
+label: 'Files weekly'
+enabled: true
+keep: 4
+period: 604800
+cron: null
+source_id: public_files
+destination_id: private_files
+settings_profile_id: null

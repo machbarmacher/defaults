@@ -1,0 +1,18 @@
+{
+    "name": "machbarmacher/defaults",
+    "description": "MachbarMacher project defaults.",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "Axel Rutz",
+            "email": "axel.rutz@machbarmacher.net"
+        }
+    ],
+    "require": {
+        "drupal/drush_language": "^1.0@dev",
+        "drupal/shield": "^1.0",
+        "drupal/backup_migrate": "^4.0@beta"
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

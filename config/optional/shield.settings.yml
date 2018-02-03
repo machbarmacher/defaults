@@ -1,0 +1,6 @@
+langcode: en
+user: keep
+pass: out
+print: Hello!
+allow_cli: true
+
