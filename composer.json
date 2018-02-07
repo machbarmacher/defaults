@@ -16,6 +16,5 @@
         "drupal/shield": "^1.0",
         "drupal/backup_migrate": "^4.0@beta"
     },
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
