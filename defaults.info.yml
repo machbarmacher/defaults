@@ -8,4 +8,5 @@ dependencies:
   - shield
   - backup_migrate
   - drush_language
+  - composer_deploy
 
