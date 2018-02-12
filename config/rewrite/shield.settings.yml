@@ -1,7 +1,6 @@
 dependencies:
   module:
     - shield
-langcode: en
 user: keep
 pass: out
 print: Hello!

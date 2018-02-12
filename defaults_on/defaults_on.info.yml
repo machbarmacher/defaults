@@ -4,6 +4,7 @@ description: 'Shield, backup, drush language.'
 package: MachbarMacher
 core: 8.x
 dependencies:
+  - defaults
   - shield
   - backup_migrate
   - composer_deploy
