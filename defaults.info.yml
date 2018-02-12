@@ -1,8 +1,0 @@
-name: MachbarMacher project defaults
-type: module
-description: 'Shield, backup, drush language.'
-package: MachbarMacher
-core: 8.x
-dependencies:
-  - config_rewrite
-

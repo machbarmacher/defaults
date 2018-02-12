@@ -1,8 +1,8 @@
 dependencies:
   module:
     - shield
-user: keep
-pass: out
+user: hey
+pass: ho
 print: Hello!
 allow_cli: true
 

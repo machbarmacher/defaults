@@ -1,10 +1,9 @@
 name: MachbarMacher project defaults dependencies
 type: module
-description: 'Shield, backup, drush language.'
+description: 'shield, backup_migrate, composer_deploy, drush language (via composer).'
 package: MachbarMacher
 core: 8.x
 dependencies:
-  - defaults
   - shield
   - backup_migrate
   - composer_deploy
